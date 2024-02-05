@@ -7,6 +7,7 @@ public class TestClass {
 		안녕하세요
 		집에서작업중이닷
 		집에서 엉ㅅ
+		ㅇ아러ㅑㅅ어
 	}
 
 }
